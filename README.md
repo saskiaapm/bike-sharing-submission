@@ -68,3 +68,15 @@ submission
    - Set up the DataFrame which will be used
    - Make filter components on the dashboard
    - Complete the dashboard with various data visualizations
+
+## How to Run Dashboard
+### Setup Environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
+### Run steamlit app
+```
+streamlit run dashboard.py
+```

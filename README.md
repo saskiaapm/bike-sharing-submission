@@ -38,14 +38,8 @@ submission
 │   ├── dashboard.py
 │   └── day_clean.csv
 ├── data
-│   ├── Readme.txt
 │   ├── day.csv
 |   └── hour.csv
-├── screenshots
-|   ├── Screenshots (91).png
-|   ├── Screenshots (92).png
-|   ├── Screenshots (93).png
-|   └── Screenshots (94).png
 ├── README.md
 ├── notebook.ipynb
 └── requirements.txt

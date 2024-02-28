@@ -65,6 +65,7 @@ submission
 
 ## How to Run Dashboard
 ### Setup Environment
+On your search bar, serach 'cmd' and then write the command as below
 ```
 conda create --name main-ds python=3.9
 conda activate main-ds

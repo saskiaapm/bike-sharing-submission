@@ -67,7 +67,7 @@ submission
 ### Setup Environment
 On your search bar, serach 'cmd' and then write the command as below
 ```
-conda create --name main-ds python=3.9
+conda create --name main-ds python=3.9.13
 conda activate main-ds
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
